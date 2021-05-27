@@ -18,9 +18,9 @@ A training data shape file for the image was created using QGIS with 5 classes a
 Three different classification schemes were used to segment the image. These include Slic, Quickshift, and Felzenszwalb. 
 The following are the segmented image displayed in QGIS:
 
-Slic Segmentation:
+Slic Segmentation:               Quickshift Segmentation:               Felzenszwalb Segmentation:      
 
-<img src="https://github.com/SofyaGrace/Mini-Project/blob/main/SlicSegmentation.JPG" width="60%"></img>
+<img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Segmentationx3.JPG" width="90%"></img>
 
 
 
