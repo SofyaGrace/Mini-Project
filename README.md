@@ -13,6 +13,7 @@ A training data shape file for the image was created using QGIS with 5 classes a
 
 
 
+
 Three different classification schemes were used to segment the image. These include Slic, Quickshift, and Felzenszwalb.
 
 
