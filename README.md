@@ -28,8 +28,8 @@ https://github.com/SofyaGrace/Mini-Project/blob/main/G420%20Project%20-%20Quicks
 Felzenszwalb Classification:
 https://github.com/SofyaGrace/Mini-Project/blob/main/G420%20Project%20-%20Felzenszwalb.ipynb
 
-The following are the segmented images displayed in QGIS:
 
+# Segmented images displayed in QGIS:
 
 Slic Segmentation: 
 
