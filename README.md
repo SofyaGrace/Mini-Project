@@ -50,8 +50,12 @@ Felzenszwalb Segmentation:
 Slic Classification:
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Slic.jpg" width="90%"></img> 
 
+In our opinion this tool gave the best classification overall. Each class is well identified. The tool managed to put most of the cars into the concrete classification (we selected cars as concrete when creating our training data). It has generally only struggled to classify areas with shadows. 
+
 Quickshift Classification:                                                                                                 
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Quickshift.jpg" width="90%"></img> 
+
+The strong point of this segmentation tool was its classification of vegetation. The water, grass areas and concrete near the waterfront are quite well defined however, the tool struggled to classify the carpark and buildings on the lefthand side of the image. 
                                                                                                        
 Felzenszwalb Classification:                                                                                                       
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Felzenszwalb.jpg" width="90%"></img> 
