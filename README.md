@@ -55,7 +55,6 @@ Quickshift Classification:
                                                                                                        
 Felzenszwalb Classification:                                                                                                       
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Felzenszwalb.jpg" width="90%"></img> 
-The strong point of this segmentation tool was its classification of the complicated rooftops in the lowerleft corner of the image (the best out of the three tools).
-It also managed to pick out small features such as cars and people unlike the other tools.
-The outlines of concrete, grass and water areas were well defined, however in each of these areas it has confused parts as being buildings. 
+
+The strong point of this segmentation tool was its classification of the complicated rooftops in the lowerleft corner of the image (the best out of the three tools). It also managed to pick out small features such as cars and people unlike the other tools. The outlines of concrete, grass and water areas were well defined, however in each of these areas it has confused parts as being buildings. 
 
