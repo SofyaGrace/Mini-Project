@@ -11,6 +11,7 @@ An orthophoto of the Wellington harbour was downloaded from LINZ (30cm pixel res
 
 A training data shape file for the image was created using QGIS with 5 classes assigned (water, grass, vegetation, concrete, buildings).
 
+<img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Control_points.JPG" width="90%"></img> 
 
 
 
