@@ -16,8 +16,16 @@ A training data shape file for the image was created using QGIS with 5 classes a
 
 
 Three different classification schemes were used to segment the image. These include Slic, Quickshift, and Felzenszwalb. 
+
 Links to Jupyter Notebooks:
+
+Slic Classification:
 https://github.com/SofyaGrace/Mini-Project/blob/main/G420%20Project%20-%20Slic.ipynb
+
+Quickshift Classification:
+https://github.com/SofyaGrace/Mini-Project/blob/main/G420%20Project%20-%20Quickshift.ipynb
+
+Felzenszwalb Classification:
 
 
 The following are the segmented images displayed in QGIS:
