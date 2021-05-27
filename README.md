@@ -21,11 +21,11 @@ Three different classification schemes were used to segment the image. These inc
 
 # Results 
 
-Slic classification scheme:
+Slic Segmentation:
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Slic.jpg" width="90%"></img> 
 
-Quickshift classification scheme:                                                                                                 
+Quickshift Segmentation:                                                                                                 
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Quickshift.jpg" width="90%"></img> 
                                                                                                        
-Felzenszwalb classification scheme:                                                                                                       
+Felzenszwalb Segmentation:                                                                                                       
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Felzenszwalb.jpg" width="90%"></img> 
