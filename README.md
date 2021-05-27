@@ -15,17 +15,21 @@ A training data shape file for the image was created using QGIS with 5 classes a
 
 
 
-Three different classification schemes were used to segment the image. These include Slic, Quickshift, and Felzenszwalb.
+Three different classification schemes were used to segment the image. These include Slic, Quickshift, and Felzenszwalb. 
+The following are the segmented image displayed in QGIS:
+
+Slic Segmentation:
+<img src="https://github.com/SofyaGrace/Mini-Project/blob/main/SlicSegmentation.JPG" width="90%"></img>
 
 
 
 # Results 
 
-Slic Segmentation:
+Slic Classification:
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Slic.jpg" width="90%"></img> 
 
-Quickshift Segmentation:                                                                                                 
+Quickshift Classification:                                                                                                 
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Quickshift.jpg" width="90%"></img> 
                                                                                                        
-Felzenszwalb Segmentation:                                                                                                       
+Felzenszwalb Classification:                                                                                                       
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Felzenszwalb.jpg" width="90%"></img> 
