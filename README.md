@@ -1,5 +1,4 @@
-# Mini-Project
-Image Classification
+# Mini Project - Image Classification
 
 The aim of this mini project was to test object-based land cover classificaion schemes using python, semi automating the process.
 
