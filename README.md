@@ -19,7 +19,7 @@ Three different classification schemes were used to segment the image. These inc
 The following are the segmented image displayed in QGIS:
 
 Slic Segmentation:
-<img src="https://github.com/SofyaGrace/Mini-Project/blob/main/SlicSegmentation.JPG" width="90%"></img>
+<img src="https://github.com/SofyaGrace/Mini-Project/blob/main/SlicSegmentation.JPG" width="60%"></img>
 
 
 
