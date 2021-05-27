@@ -6,7 +6,7 @@ The aim of this mini project was to test object-based land cover classificaion s
 Packages used were added to the g420 environment.
 
 An orthophoto of the Wellington harbour was downloaded from LINZ (30cm pixel resolution) for classification.
-<img src="https://github.com/SofyaGrace/Mini-Project/blob/main/wellington.tif" width="90%"></img> 
+ 
 
 
 
