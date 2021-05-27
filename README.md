@@ -29,8 +29,7 @@ Quickshift Segmentation:
 
 Felzenszwalb Segmentation:  
 
-
-
+<img src="https://github.com/SofyaGrace/Mini-Project/blob/main/FelzenszwalbSegments.JPG" width="40%"></img>
 
 
 
