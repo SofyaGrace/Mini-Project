@@ -1,12 +1,27 @@
 # Mini-Project
 Image Classification
-classified an image taken from wellington harbour somewhere by separating he image into segments
+
+The aim of this mini project was to test object-based land cover classificaion schemes using python, semi automating the process.
+
+Packages used were added to the g420 environment.
+
+An orthophoto of the Wellington harbour was downloaded from LINZ (30cm pixel resolution) for classification.
+
+
+
+
+A training data shape file for the image was created using QGIS with 5 classes assigned (water, grass, vegetation, concrete, buildings).
+
+
+Three different classification schemes were used to segment the image. These include Slic, Quickshift, and Felzenszwalb.
+
+
+
 assigned segments to one of 5 classes from supplied training data (water, grass, vegetation, concrete, buildings)
 used three different classification schemes to segment the image
-The aim of this mini project was to test classificaion schemes
-created code to semi automate this process
-training data had to be supplied
-we created a new g420 environment with new packages
+
+
+
 
 
 
