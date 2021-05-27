@@ -55,7 +55,7 @@ In our opinion this tool gave the best classification overall. Each class is wel
 Quickshift Classification:                                                                                                 
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Quickshift.jpg" width="90%"></img> 
 
-The strong point of this segmentation tool was its classification of vegetation. The water, grass areas and concrete near the waterfront are quite well defined however, the tool struggled to classify the carpark and buildings on the lefthand side of the image. 
+The strong point of this segmentation tool was its classification of vegetation. The water, grass and concrete areas near the waterfront are quite well defined however, the tool struggled to classify the carpark and buildings on the lefthand side of the image. 
                                                                                                        
 Felzenszwalb Classification:                                                                                                       
 <img src="https://github.com/SofyaGrace/Mini-Project/blob/main/Felzenszwalb.jpg" width="90%"></img> 
